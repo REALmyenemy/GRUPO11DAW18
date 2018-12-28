@@ -1,0 +1,5 @@
+Nos ha parecido confuso la práctica, ya que nos salian multiples problemas
+que no aparecían en las instrucciones, y no nos queda del todo claro qué se
+nos pide con el enunciado del ejercicio.
+Entendemos que este es el inicio de un proyecto, y que esos ficheros son
+una estructura inicial, que tendremos que arreglar y adaptar posteriormente.
