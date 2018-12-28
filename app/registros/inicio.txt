@@ -1,0 +1,3 @@
+De momento solo hemos leido un poco por encima el proyecto.
+Hemos subido el proyecto, María el controlador, Jose Antonio el modelo.
+
