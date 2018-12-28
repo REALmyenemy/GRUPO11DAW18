@@ -1,0 +1,4 @@
+Esto es un archivo con el historial del proyecto:
+1º Nos hemos registrado en GITHUB
+2º Hemos intalado GIT
+3º Hemos subido el proyecto
